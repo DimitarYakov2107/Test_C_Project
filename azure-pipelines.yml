@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'windows-2021'
+  vmImage: 'windows-2020'
 
 variables:
   solution: '**/*.sln'
